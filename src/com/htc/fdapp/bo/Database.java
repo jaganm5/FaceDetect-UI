@@ -7,7 +7,11 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-
+/**
+ * 
+ * @author Mahesh
+ *
+ */
 public class Database {
 	public int code;
 
